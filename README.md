@@ -6,7 +6,7 @@
 
 # Result
 
->>> import some_package
->>> some_package.some_func()
-42
->>>
+    >>> import some_package
+
+    >>> some_package.some_func()
+    42
